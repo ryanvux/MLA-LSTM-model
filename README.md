@@ -6,9 +6,9 @@ This [link](https://drive.google.com/drive/folders/1S31YhLA_Iu8iAhXKo3WASu915s5-
 
 1. Dataset
 2. Colab code & outputs
-3. References
+3. References & related papers
 4. Requirements of research paper
-5. Our word file of research paper
+5. Our research paper (both file word & latex)
 
 ## Google Colab Notebook Link
 
@@ -24,4 +24,4 @@ Please click on the links above to open the notebook and run the code. Enjoy you
 
 This repository also provides a link to our Latex project to see how we write and generate the latex file
 
-[Click here to access our Latex Project](https://www.overleaf.com/read/vwjjzmwpjmhm#ac8e91)
+[Click here to access our Latex Project](https://www.overleaf.com/3275145881qbvtqpcbvwgd#b17a69)
