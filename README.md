@@ -7,6 +7,7 @@ This [link](https://drive.google.com/drive/folders/1S31YhLA_Iu8iAhXKo3WASu915s5-
 2. Colab code & outputs
 3. References
 4. Requirements of research paper
+5. Our word file of research paper
 
 ## Google Colab Notebook Link
 
